@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+  <html>
+    {% include head.html %}
+  <body>
+    <div class="container page_body">
+      <div class="row-fluid">
+        <div class="span7">
+          <div class="row-fluid">
+            <span class="visible-phone">
+              {% include nav-interior.html %}
+            </span>
+            <div class="interior-container">
+              <div style="padding: 0 50px;">
+                <h3 class="visible-phone"><em>Lauren Cerand</em></h3>
+                <span class="hidden-phone">
+                  {% include nav-interior.html %}
+                </span>
+              </div>
+            </div>
+          </div>
+            <!-- thumbnail -->
+          <div class="row-fluid">
+            <div class="interior-container">  
+              <div class="inner-padding">
+                {{ content }}
+              </div>
+            </div>
+          </div>        
+        </div><!-- //CLOSE -->    
+        <div class="span2 middle-column hidden-phone">
+          &nbsp;
+        </div>
+        <div class="span3" style="padding-top: 200px;">
+          {% include sidebar.html %}
+        </div>
+      </div>
+    </div>
+    {% comment %}include footer.html{% endcomment %}
+  </body>
+</html>
