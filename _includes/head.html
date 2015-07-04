@@ -52,4 +52,23 @@
     {% if site.production == true %}
       {% include analytics.html %}
     {% endif %}
+
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script type="text/javascript">
+           google.load("feeds", "1");
+
+           function OnLoad() {
+           // Create a feed control
+           var feedControl = new google.feeds.FeedControl();
+
+          // Add two feeds.
+          feedControl.addFeed("http://www.luxlotus.com/lux_lotus/rss.xml", "Lately at Lux Lotus");
+          
+          // Draw it.
+          feedControl.draw(document.getElementById("google_feeds"));
+          feedControl.setNumEntries(2);
+          }
+
+          google.setOnLoadCallback(OnLoad);
+        </script>
   </head>

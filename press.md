@@ -5,7 +5,7 @@ layout: page
 ---
 2015
 
-[20&#215;200.com, &#8220;5+5 | Lauren Cerand. Aesthete. Intellect. Belle of the Ball.&#8221; (February 12, 2015)][1]
+[20×200.com, “5+5 \| Lauren Cerand. Aesthete. Intellect. Belle of the Ball.” (February 12, 2015)][1]
 
 [PEN America, &#8220;The PEN Ten Interview&#8221; (January 23, 2015)][2]
 
