@@ -1,0 +1,57 @@
+footer {
+  // @include span-columns(12 of 12);
+  .address {
+    width: 55%;
+    float: left;
+    height: 35vh;
+    background-color: #CC5C32;
+    @include media($mobile) {
+      width: 100%;
+      float: none;
+      height: 10vh;
+    }
+    ul {
+      padding-left: 45%;
+      padding-top: 20%;
+      @include media($mobile) {
+        padding-top: 0px;
+      }
+      li {
+        color: #fff;
+      }
+    }
+  }
+  .map {
+    // position: relative;
+    width: 45%;
+    float: right;
+    @include media($mobile) {
+      width: 100%;
+      float: none;
+    }
+  }
+  #map_canvas {
+    height: 35vh;
+  }
+
+  #map_canvas img { 
+    max-width: none; 
+  // to prevent UI control bug
+  }
+
+  #map_canvas .content {
+    padding: 0 0.5em 1em 0.5em;
+  }
+
+  #map_canvas .firstHeading {
+    font-size: 1em;
+    line-height: 1em;
+    font-weight: bold;
+    margin: 0;
+  }
+
+  #map_canvas #bodyContent p {
+    font-size: 1em;
+    margin: 0;
+  }
+}

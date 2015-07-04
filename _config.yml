@@ -1,13 +1,39 @@
-# Site settings
-title: Lauren Cerand
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://laurencerand.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+sitename: 'lauren Cerand'
+description: 'The official website of Lauren Cerand'
+# do not include  https://github.com/...
+#Pages - store all pages in the _pages directory
+
+include: ['_pages']
+exclude: ['readme.md','license.md','Gemfile', 'CNAME', 'bower.json', 'node_modules', 'bower_components', 'sass', 'gulpfile.js', 'package.json']
+
+markdown: kramdown
+permalink: pretty
 
 # Build settings
-markdown: kramdown
+# dev options (true/false)
+# if site is in production, 'production: true'
+production: false
+bust_css_cache: true
+
+
+# options (data)
+google_analytics_id: UA-xxxx
+disqus_id:
+addthis_id:
+
+directory_assets_img: /static/images/
+
+# options (social)
+# facebook_id:
+twitter_id: budparr
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+

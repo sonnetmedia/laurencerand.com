@@ -1,12 +1,8 @@
 ---
-title: Projects
+title: "Selected Past Projects & Clients"
 author: admin
 layout: page
 ---
-## Selected Past Projects & Clients
-
-&nbsp;
-
 Atticus Lish
 
 The Authors Guild (annual dinner)

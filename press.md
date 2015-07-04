@@ -3,10 +3,6 @@ title: Press
 author: admin
 layout: page
 ---
-## Press
-
-&nbsp;
-
 2015
 
 [20&#215;200.com, &#8220;5+5 | Lauren Cerand. Aesthete. Intellect. Belle of the Ball.&#8221; (February 12, 2015)][1]

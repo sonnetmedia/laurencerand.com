@@ -1,0 +1,121 @@
+body.two-columns {
+		nav {
+			background-color: $dark-gray;
+			@include media($mobile) {
+				@include span-columns(12); 
+				@include pad();
+				height: auto; 
+				width: 100%;
+			}
+			@include media($medium) {
+				height: 100vh;
+				width: rem(280);
+				position: fixed;
+				left: 0px;
+			}
+			img {
+				width: 105px;
+				@include media($mobile) {
+					float: left;
+					margin: 2rem 0 0 0;
+				}
+				display: block;
+				margin: 4rem auto 0;
+			}
+			h2.logo {
+				font-size: 2em;
+				font-weight: bold;
+				text-transform: uppercase;
+				text-align: center;
+				margin-top: 1rem;
+				color: #fff;
+				@include media($mobile) {
+					margin-top: 4rem;
+					text-align: left;
+					margin-left: 40%;
+				}
+			}
+			ul {
+				text-align: right;
+				@include media($mobile) {
+					text-align: left;
+					margin-left: 40%;
+					min-width: 50%;
+				}
+				margin-right: 35%;
+				li a {
+					font-weight: 2rem;
+					color: #fff;
+				}
+				li {
+					@include media($mobile) {
+						display: inline;
+					}
+				}
+			}
+		}
+
+		main {
+			padding-left: rem(280); 
+			@include media($mobile) {
+				padding-left: 0px;
+			}
+			header {
+				text-align: center;
+				height: rem(200);
+				background-color: lightgray;
+				// @include pad();
+				@include span-columns(12);
+					img {
+						width: 90px;
+						float: left;
+						margin-left: 4rem;
+					}
+					h1 {
+						display: inline-block;
+						text-align: left;
+						font-size: 3rem;
+						padding-left: 2rem;
+						@include vertical-align(); 
+					}
+			}
+			article {
+				@include span-columns(12);
+				@include pad();
+			}
+		}
+
+	// 		padding-top: 0px;
+	// 		height: 100vh; 
+	// 		header {
+	// 			@include span-columns(9 of 9);
+	// 			@include pad();
+	// 			@include media($mobile) {
+	// 				display: none;
+	// 			}
+	// 			background-color: gray; 
+	// 			height: 200px;
+	// 			img {
+	// 				width: 90px;
+	// 				float: left;
+	// 				margin-left: 4rem;
+	// 			}
+	// 			h1 {
+	// 				display: inline-block;
+	// 				text-align: left;
+	// 				font-size: 3rem;
+	// 				padding-left: 2rem;
+	// 			}
+	// 		}
+	// 		article {
+	// 			@include span-columns(9 of 9);
+	// 		}
+		
+	
+	// h1 {
+	// 	text-transform: uppercase;
+	// 	text-align: center;
+	// 	margin-top: 4rem;
+	// }
+
+}

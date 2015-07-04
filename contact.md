@@ -1,5 +1,5 @@
 ---
-title: Letters
+title: "Messages checked daily"
 author: admin
 layout: page
 ---

@@ -1,0 +1,16 @@
+article.hentry {
+  padding: 1em 1em 6em 1em;
+  margin:auto;
+  max-width: $medium-screen;//$d-vp;
+  //min-height: $c-vp;
+  overflow: hidden;
+  header {
+    margin-bottom: .5em;
+  }
+  img {
+  	max-width: 100%;
+  }
+    @include media($medium-screen-up) {
+  	//padding: 2rem 7em; //- change padding to the screen size
+  }
+}
