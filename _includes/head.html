@@ -18,7 +18,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
               <!-- TODO: make correct URL for rss -->
-      <link rel="alternate" type="application/rss+xml" href="/rss" title="RSS Feed">
+  
 
       <title>{% if page.title_meta %} {{ page.title_meta }} {% elsif page.title %}{{ page.title }} - {% endif %} {{site.sitename}}</title>
       {% if page.url %}
@@ -48,7 +48,8 @@
       <!--[if lte IE 7]>
         <link rel="stylesheet" media="all" href="http://universal-ie6-css.googlecode.com/files/ie6.0.3.css">
       <![endif]-->
-
+<script src="//use.typekit.net/zgf2zci.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
     {% if site.production == true %}
       {% include analytics.html %}
     {% endif %}

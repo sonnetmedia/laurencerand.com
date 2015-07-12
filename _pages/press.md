@@ -1,7 +1,6 @@
 ---
 title: Press
-author: admin
-layout: page
+permalink: /press/
 ---
 2015
 

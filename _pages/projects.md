@@ -1,7 +1,6 @@
 ---
 title: "Selected Past Projects & Clients"
-author: admin
-layout: page
+permalink: "/projects/"
 ---
 Atticus Lish
 

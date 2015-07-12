@@ -1,6 +1,6 @@
 ---
-layout: page
 image: "145_Lauren_Cerand_056_Web.jpg"
+permalink: "/"
 ---
 &#8220;There are publicists, and then there is Lauren Cerand,&#8221; said Flavorwire, counting her among &#8220;35 Writers Who Run the Literary Internet,&#8221; in 2014.
 
