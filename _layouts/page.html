@@ -15,6 +15,9 @@ layout: default
         {% endif %}
         <article class="post-content">
           {{ content }}
+          {% if page.include %}
+            {% include {{page.include}} %}
+          {% endif %}
         </article>
       </div>
     </div>
