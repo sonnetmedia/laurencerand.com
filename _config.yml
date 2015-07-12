@@ -13,12 +13,12 @@ permalink: pretty
 # Build settings
 # dev options (true/false)
 # if site is in production, 'production: true'
-production: false
+production: true
 bust_css_cache: true
 
 
 # options (data)
-google_analytics_id: UA-xxxx
+google_analytics_id: UA-176386-24
 disqus_id:
 addthis_id:
 

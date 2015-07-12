@@ -42,9 +42,9 @@
   <meta content="{{site.url}}/about/" property="article:author">
 {% endif %}
 {% if page.image %}
-  <meta content="{{site.url}}/assets/img/posts/{{ page.image }}" property="og:image">
+  <meta content="{{site.url}}/static/images/{{ page.image }}" property="og:image">
 {% else %}
-  <meta content="{{site.url}}/assets/img/cover_your-fatwa-does-not-apply-here_pb_978-0-393-35025-8-s.jpg" property="og:image">
+  <meta content="{{site.url}}/static/images/145_Lauren_Cerand_056_Web.jpg" property="og:image">
 {% endif %}
 {% if page.categories %}
   {% for category in page.categories limit:1 %}
