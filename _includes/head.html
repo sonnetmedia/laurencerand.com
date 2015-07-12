@@ -52,7 +52,7 @@
     {% if site.production == true %}
       {% include analytics.html %}
     {% endif %}
-
+{% comment %}
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
         <script type="text/javascript">
            google.load("feeds", "1");
@@ -70,5 +70,6 @@
           }
 
           google.setOnLoadCallback(OnLoad);
-        </script>
+        </script> 
+  {% endcomment %}
   </head>
