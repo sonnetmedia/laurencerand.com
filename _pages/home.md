@@ -4,45 +4,12 @@ permalink: "/"
 ---
 “There are publicists, and then there is Lauren Cerand,” said Flavorwire, counting her among “35 Writers Who Run the Literary Internet,” in 2014.
 
-Her work in 2015 includes publicity for the [Windham Campbell Prizes][1], which will convene its international literary festival at Yale in September; and the annual Authors Guild Dinner, honoring Joan Didion, in April; as well as [*We Are Pirates*][2] by Daniel Handler (Bloomsbury, February); [*The Boatmaker*][3] by [John Benditt][4] (Tin House Books, February); [*The Truth is We Are Perfect*][5] by Janaka Stucky ([Third Man Books][6], April); [*Small Victories: A Print Collector&#8217;s Story*][7] by [Dave H. Williams][8] (Godine, April); *[Lunch with a Bigot: The Writer in the World][9],* by [Amitava Kumar][10] (Duke University Press; May); *Bad Sex* by Clancy Martin ([Tyrant Books][11], September); [*Old Silk Road*][27] by Brandon Caro (Post Hill Press, October); and *Drawing Blood* by [Molly Crabapple][12] (HarperCollins, December).
+Her work in 2015 includes publicity for the [Windham Campbell Prizes](http://windhamcampbell.org/), which will convene its international literary festival at Yale in September; and the annual Authors Guild Dinner, honoring Joan Didion, in April; as well as _[We Are Pirates](http://www.bloomsbury.com/us/superpage/we-are-pirates/)_ by Daniel Handler (Bloomsbury, February); [_The Boatmaker_](http://www.tinhouse.com/books/coming-soon/title.html) by [John Benditt](http://www.johnbenditt.com/) (Tin House Books, February); [_The Truth is We Are Perfect_](http://thirdmanbooks.com/book/the-truth-is-we-are-perfect-by-janaka-stucky) by Janaka Stucky ([Third Man Books](http://thirdmanbooks.com/), April); [_Small Victories: A Print Collector’s Story_](http://www.godine.com/isbn.asp?isbn=1567925294) by [Dave H. Williams](http://davehwilliams.com/) (Godine, April); _[Lunch with a Bigot: The Writer in the World](https://www.dukeupress.edu/Lunch-with-a-Bigot/index.html),_ by [Amitava Kumar](http://www.amitavakumar.com/) (Duke University Press; May); _Bad Sex_ by Clancy Martin ([Tyrant Books](http://www.nytyrant.com/books.html), September); [_Old Silk Road_](http://books.simonandschuster.com/Old-Silk-Road/Brandon-Caro/9781618688705) by Brandon Caro (Post Hill Press, October); the new edition of _Preparation for the Next Life_ by Atticus Lish (Tyrant Books, November), and _Drawing Blood_ by [Molly Crabapple](http://mollycrabapple.com/) (HarperCollins, December).
 
-Her confirmed projects in 2016 include continuing publicity for the [Windham Campbell Prizes][1]; as well as [Daniel Handler][28] (and Lemony Snicket); and campaigns to promote publication of *[Anything That Burns You: A Portrait of Lola Ridge, Radical Poet][13]* by Terese Svoboda (Schaffner Press, January); *[Square Wave][14],* a debut novel by Mark de Silva (Two Dollar Radio, February); [*What Lies Between Us*][29], the anticipated second novel by [Nayomi Munaweera][29] (St. Martin's Press, February); in the fall, the next novel from craft publisher [Relegation Books][30]; and, with an as-yet-to-be-scheduled publication date, a debut memoir of coming-of-age, and into her own life as an artist, by a member of one of America’s most recognizable families.
+Her confirmed projects in 2016 include continuing publicity for the [Windham Campbell Prizes](http://windhamcampbell.org/); as well as [Daniel Handler](http://us.macmillan.com/whatliesbetweenus/nayomimunaweera) (and Lemony Snicket); and campaigns to promote the publication of _[Anything That Burns You: A Portrait of Lola Ridge, Radical Poet](http://www.ipgbook.com/anything-that-burns-you-products-9781936182961.php)_ by Terese Svoboda (Schaffner Press, January); _[Square Wave](http://twodollarradio.tumblr.com/post/116478560386/when-we-sign-a-new-author-we-like-to-do-an),_ a debut novel by Mark de Silva (Two Dollar Radio, February); [_What Lies Between Us_](http://www.nayomimunaweera.com/), the anticipated second novel by [Nayomi Munaweera](http://www.nayomimunaweera.com/) (St. Martin’s Press, February); _A Single Happened Thing_ by Daniel Paisner (Relegation Books, April); _Beer Money_, a debut memoir of coming-of-age, and into her own life as an artist, by Frances Stroh ([www.francesstroh.com](http://www.francesstroh.com/)) (HarperCollins, May); and, in the fall, another novel from craft publisher [Relegation Books](http://www.relegationbooks.com/), and a new novel by one of America's most original writers.
 
-Lauren has been called one of the “cultural gatekeepers in the literary world” by *Time Out New York*, and among the “Best of New York” by the *Village Voice.* According to the [Nervous Breakdown][15], “Lauren Cerand is a singular powerhouse of vision and personality… there isn’t a hotter freelance publicist in the country.” She is known “as a freelancer of exquisite taste who only takes on projects that interest her,” says the [Millions][16]; a “talented publicist,” says the *[Wall Street Journal][17];* “a social media pioneer,” says *Svenska Dagbladet* (Swedish Daily Paper); and a “specialist in literary social networking,” says the *Telegraph* (UK). According to the [Rumpus][18], Lauren is “in that rare category of people in publishing who are both arbiters of taste and a kind of ‘brand’ in and of themselves.”
+Lauren has been called one of the “cultural gatekeepers in the literary world” by _Time Out New York_, and among the “Best of New York” by the _Village Voice._ According to the [Nervous Breakdown](http://www.thenervousbreakdown.com/gfrangello/2011/05/new-directions-in-publishing-public-relations-representative-lauren-cerand/), “Lauren Cerand is a singular powerhouse of vision and personality… there isn’t a hotter freelance publicist in the country.” She is known “as a freelancer of exquisite taste who only takes on projects that interest her,” says the [Millions](http://www.themillions.com/2012/04/adventures-in-self-publishing-dallas-hudgens-wake-up-were-here.html); a “talented publicist,” says the _[Wall Street Journal](http://www.wsj.com/articles/how-preparation-for-the-next-life-became-a-big-hit-for-tyrant-1421351378?tesla=y);_ “a social media pioneer,” says _Svenska Dagbladet_ (Swedish Daily Paper); and a “specialist in literary social networking,” says the _Telegraph_(UK). According to the [Rumpus](http://therumpus.net/2012/05/lit-link-round-up-16/), Lauren is “in that rare category of people in publishing who are both arbiters of taste and a kind of ‘brand’ in and of themselves.”
 
-*Poets & Writers* commissioned her articles, “[Social Media for Authors: Forever in Search of Buzz][19],” and “[How to Use Twitter to Connect With Readers][20].” She regularly speaks to audiences as varied as publishing professionals at [Book Expo America][21] and [Penguin Books in London][22], and faculty within the [Psychology Department at New York University][23]. Her speaking engagements in 2015 include appearances at the [Tennessee Williams New Orleans Literary Festival][24], [Yale Writers Conference][25], and [New School Summer Writers Colony][26].
+_Poets & Writers_ commissioned her articles, “[Social Media for Authors: Forever in Search of Buzz](http://www.pw.org/content/social_media_for_authors_forever_in_search_of_buzz),” and “[How to Use Twitter to Connect With Readers](http://www.pw.org/content/network_how_to_use_twitter_to_connect_with_readers).” She regularly speaks to audiences as varied as publishing professionals at [Book Expo America](http://blip.tv/bookexpo-america/bookexpo-america-2009-7x20x21-lauren-cerand-2318362) and [Penguin Books in London](http://www.youtube.com/watch?v=U85UHen-y3s), and faculty within the [Psychology Department at New York University](http://psych.nyu.edu/pelli/pubs/pelli2010media-workshop.html). Her speaking engagements in 2015 include appearances at the [Tennessee Williams New Orleans Literary Festival](http://www.tennesseewilliams.net/), [Yale Writers Conference](http://summer.yale.edu/ywc), and [New School Summer Writers Colony](http://www.newschool.edu/summerwriters/).
 
-Lauren is a graduate of Cornell University.
-
- [1]: http://windhamcampbell.org/
- [2]: http://www.bloomsbury.com/us/superpage/we-are-pirates/
- [3]: http://www.tinhouse.com/books/coming-soon/title.html
- [4]: http://www.johnbenditt.com
- [5]: http://thirdmanbooks.com/book/the-truth-is-we-are-perfect-by-janaka-stucky
- [6]: http://thirdmanbooks.com/
- [7]: http://www.godine.com/isbn.asp?isbn=1567925294
- [8]: http://davehwilliams.com/
- [9]: https://www.dukeupress.edu/Lunch-with-a-Bigot/index.html
- [10]: http://www.amitavakumar.com
- [11]: http://www.nytyrant.com/books.html
- [12]: http://mollycrabapple.com/
- [13]: http://www.ipgbook.com/anything-that-burns-you-products-9781936182961.php
- [14]: http://twodollarradio.tumblr.com/post/116478560386/when-we-sign-a-new-author-we-like-to-do-an
- [15]: http://www.thenervousbreakdown.com/gfrangello/2011/05/new-directions-in-publishing-public-relations-representative-lauren-cerand/ "Nervous Breakdown"
- [16]: http://www.themillions.com/2012/04/adventures-in-self-publishing-dallas-hudgens-wake-up-were-here.html
- [17]: http://www.wsj.com/articles/how-preparation-for-the-next-life-became-a-big-hit-for-tyrant-1421351378?tesla=y
- [18]: http://therumpus.net/2012/05/lit-link-round-up-16/
- [19]: http://www.pw.org/content/social_media_for_authors_forever_in_search_of_buzz
- [20]: http://www.pw.org/content/network_how_to_use_twitter_to_connect_with_readers
- [21]: http://blip.tv/bookexpo-america/bookexpo-america-2009-7x20x21-lauren-cerand-2318362
- [22]: http://www.youtube.com/watch?v=U85UHen-y3s
- [23]: http://psych.nyu.edu/pelli/pubs/pelli2010media-workshop.html
- [24]: http://www.tennesseewilliams.net/
- [25]: http://summer.yale.edu/ywc
- [26]: http://www.newschool.edu/summerwriters/
- [27]: http://books.simonandschuster.com/Old-Silk-Road/Brandon-Caro/9781618688705
- [28]: http://www.danielhandler.com/
- [28]: http://us.macmillan.com/whatliesbetweenus/nayomimunaweera
- [29]: http://www.nayomimunaweera.com/
- [30]: http://www.relegationbooks.com/
- 
+Lauren is a graduate of Cornell University.
