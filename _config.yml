@@ -1,5 +1,5 @@
 url: "http://laurencerand.com" # the base hostname & protocol for your site
-sitename: 'lauren Cerand'
+sitename: 'Lauren Cerand'
 description: 'The official website of Lauren Cerand'
 # do not include  https://github.com/...
 #Pages - store all pages in the _pages directory
@@ -36,4 +36,3 @@ defaults:
       type: "pages" # previously `post` in Jekyll 2.2.
     values:
       layout: "page"
-
