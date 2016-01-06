@@ -19,11 +19,13 @@ permalink: /press/
 
 [Books & Authors with Cary Barbor podcast (September 4, 2015)](http://www.bksandauthors.com/episode/lauren-cerand-literary-publicist)
 
-[20×200.com, “5+5 | Lauren Cerand. Aesthete. Intellect. Belle of the Ball.” (February 12, 2015)](http://20x200.com/blogs/news/16977632-5-5-lauren-cerand-aesthete-intellect-belle-of-the-ball)
+[20×200.com, "5+5: Lauren Cerand. Aesthete. Intellect. Belle of the Ball." (February 12, 2015)](http://20x200.com/blogs/news/16977632-5-5-lauren-cerand-aesthete-intellect-belle-of-the-ball)
 
 [PEN America, “The PEN Ten Interview” (January 23, 2015)](http://www.pen.org/interview/pen-ten-lauren-cerand)
 
 [Wall Street Journal, How ‘Preparation for the Next Life’ Became a Big Hit for Tyrant (January 16, 2015)](http://www.wsj.com/articles/how-preparation-for-the-next-life-became-a-big-hit-for-tyrant-1421351378?tesla=y)
+
+---
 
 2014
 
