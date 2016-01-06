@@ -9,7 +9,7 @@ permalink: /press/
 
 [0s&1s, "The Art of Commerce" (December 16, 2015)](http://www.0s-1s.com/the-art-of-commerce-xliii/)
 
-[Lit Hub, "'The Porn Theme Was Hot'" (November 24, 2015)](http://lithub.com/the-porn-theme-was-hot-and-other-notes-from-a-paris-review-party/) and Other Notes From a Paris Review Party"
+[Lit Hub, "'The Porn Theme Was Hot' and Other Notes From a Paris Review Party" (November 24, 2015)](http://lithub.com/the-porn-theme-was-hot-and-other-notes-from-a-paris-review-party/)
 
 [Lit Hub, "Actual Civilians Show Up at a Literary Party" (November 6, 2015)](http://lithub.com/actual-civilians-show-up-at-a-literary-party/)
 
