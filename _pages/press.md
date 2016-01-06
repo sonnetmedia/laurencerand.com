@@ -5,21 +5,21 @@ permalink: /press/
 
 2015
 
-[Loveliest, "Interview with NY-Based Freelance Publicist Lauren Cerand"](http://loveliestmag.com/issues/issue-2/feature/)(January 5, 2016)
+[Loveliest, "Interview with NY-Based Freelance Publicist Lauren Cerand" (January 5, 2016)](http://loveliestmag.com/issues/issue-2/feature/)
 
-[0s&1s, "The Art of Commerce"](http://www.0s-1s.com/the-art-of-commerce-xliii/)(December 16, 2015)
+[0s&1s, "The Art of Commerce" (December 16, 2015)](http://www.0s-1s.com/the-art-of-commerce-xliii/)
 
-[Lit Hub, "'The Porn Theme Was Hot'"](http://lithub.com/the-porn-theme-was-hot-and-other-notes-from-a-paris-review-party/) and Other Notes From a Paris Review Party" (November 24, 2015)
+[Lit Hub, "'The Porn Theme Was Hot'" (November 24, 2015)](http://lithub.com/the-porn-theme-was-hot-and-other-notes-from-a-paris-review-party/) and Other Notes From a Paris Review Party"
 
-[Lit Hub, "Actual Civilians Show Up at a Literary Party"](http://lithub.com/actual-civilians-show-up-at-a-literary-party/) (November 6, 2015)
+[Lit Hub, "Actual Civilians Show Up at a Literary Party" (November 6, 2015)](http://lithub.com/actual-civilians-show-up-at-a-literary-party/)
 
-[Lit Hub, "At the Texas Book Festival Closing Gala"](http://lithub.com/song-and-dance-and-a-surprise-at-the-texas-book-festival-gala/) (October 23, 2015)
+[Lit Hub, "At the Texas Book Festival Closing Gala" (October 23, 2015)](http://lithub.com/song-and-dance-and-a-surprise-at-the-texas-book-festival-gala/)
 
-[Lit Hub, "Lauren Cerand's Night Out at the Archipelago Gala"](http://lithub.com/lauren-cerands-night-out-at-the-archipelago-gala/) (October 1, 2015)
+[Lit Hub, "Lauren Cerand's Night Out at the Archipelago Gala" (October 1, 2015)](http://lithub.com/lauren-cerands-night-out-at-the-archipelago-gala/)
 
-[Books & Authors with Cary Barbor podcast](http://www.bksandauthors.com/episode/lauren-cerand-literary-publicist) (September 4, 2015)
+[Books & Authors with Cary Barbor podcast (September 4, 2015)](http://www.bksandauthors.com/episode/lauren-cerand-literary-publicist)
 
-[20×200.com, “5+5 | Lauren Cerand. Aesthete. Intellect. Belle of the Ball.”](February 12, 2015)](http://20x200.com/blogs/news/16977632-5-5-lauren-cerand-aesthete-intellect-belle-of-the-ball)
+[20×200.com, “5+5 | Lauren Cerand. Aesthete. Intellect. Belle of the Ball.” (February 12, 2015)](http://20x200.com/blogs/news/16977632-5-5-lauren-cerand-aesthete-intellect-belle-of-the-ball)
 
 [PEN America, “The PEN Ten Interview” (January 23, 2015)](http://www.pen.org/interview/pen-ten-lauren-cerand)
 
