@@ -8,6 +8,8 @@ permalink: /press/
 
 [Loveliest, "Interview with NY-Based Freelance Publicist Lauren Cerand" (January 5, 2016)](http://loveliestmag.com/issues/issue-2/feature/)
 
+---
+
 2015
 
 [0s&1s, "The Art of Commerce" (December 16, 2015)](http://www.0s-1s.com/the-art-of-commerce-xliii/)
