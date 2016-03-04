@@ -46,6 +46,8 @@ permalink: /press/
 
 [Washingtonian, “Relegation Books Launches Student-Run Imprint at GMU” (March 26, 2014)](http://www.washingtonian.com/blogs/capitalcomment/books/relegation-books-launches-student-run-imprint-at-gmu.php)
 
+---
+
 2013
 
 [The New York Times, “The One-Page Magazine” (November 17, 2013)](http://www.nytimes.com/interactive/2013/11/17/magazine/17-one-page-magazine.html)
@@ -61,6 +63,8 @@ permalink: /press/
 [Harper’s Bazaar (UK), “The Best Thing About London is Paris” (February 12, 2013)](http://www.harpersbazaar.co.uk/blogs/the-best-thing-about-london-is-paris-week-one)
 
 [Oprah.com, “7 Costs Everyone Forgets to Budget For” (January 10, 2013)](http://www.oprah.com/money/Things-People-Forget-to-Budget-For--Budgeting-Tips/7)
+
+---
 
 2012
 
@@ -88,6 +92,8 @@ permalink: /press/
 
 [The Literarian, “Guess What’s Next: Literary Predictions for 2012” (January 19, 2012)](http://centerforfiction.org/magazine/issue-7/guess-whats-next-lit-predictions/)
 
+---
+
 2011
 
 [Galleycat, “Should I Hire a Book Publicist?” (September 13, 2011)](http://www.mediabistro.com/galleycat/should-i-hire-a-book-publicist_b38096)
@@ -104,6 +110,8 @@ permalink: /press/
 
 [Publishers Weekly, “What’s Ahead in 2011” (Jan 3, 2011)](http://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/45643-what-s-ahead-in-2011.html "Publishers Weekly,")
 
+---
+
 2010
 
 [Electric Literature, “A Gathering of the Minds” (December 4, 2010)](http://electricliterature.com/blog/2010/12/04/a-gathering-of-the-minds/ "Electric Literature,")
@@ -118,11 +126,15 @@ permalink: /press/
 
 [The New York Observer, “My Town of Kind!” (February 23, 2010)](http://www.observer.com/2010/culture/my-town-kind "The New York Observer,")
 
+---
+
 2009
 
 [Three Guys One Book, “Picking Lauren Cerand’s Brain” (July 14, 2009)](http://threeguysonebook.com/picking-lauren-cerands-brain "Three Guys One Book,")
 
 [Flavorwire, “FW Required Reading: Jonathan Baumbach’s YOU or The Invention of Memory” (January 16, 2009)](http://flavorwire.com/7982/fw-required-reading-jonathan-baumbachs-you-or-the-invention-of-memory "Flavorwire,")
+
+---
 
 2008
 
