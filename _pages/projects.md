@@ -1,9 +1,10 @@
 ---
-title: "Selected Past Projects & Clients"
-permalink: "/projects/"
+title: 'Selected Past Projects & Clients'
+permalink: /projects/
 ---
 
-Atticus Lish
+
+Atticus Lish, winner of the 2015 PEN/Faulkner Award for Fiction
 
 Barnes & Noble (for “Upstairs at the Square,” 2006-2013)
 
@@ -15,15 +16,11 @@ Goethe-Institut New York (cultural publicity & launch of Ludlow 38 art gallery)
 
 Hendrick’s Gin (U.S. publicity for “Gin in Literature” events in Austin & San Francisco, 2012)
 
-John Benditt
+John Benditt, winner of the 2015 National Jewish Book Award Goldberg Prize for Debut Fiction
 
 The Mazama Festival of Books
 
-Molly Crabapple
-
 The Penguin Press (U.S. publicity for Jeet Thayil’s Narcopolis)
-
-Stephanie LaCava
 
 Tayari Jones
 
