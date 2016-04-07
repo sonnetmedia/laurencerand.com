@@ -1,5 +1,5 @@
 ---
-image: 145_Lauren_Cerand_056_Web.jpg
+image: /static/images/lauren-cerand-by-roger-gana-james-photography.jpg
 permalink: /
 ---
 
@@ -11,3 +11,5 @@ Her work in 2016 include continuing publicity for the Windham-Campbell Prizes, D
 Lauren has been called one of the “cultural gatekeepers in the literary world” by *Time Out New York*, and among the “Best of New York” by the *Village Voice*. According to the [Nervous Breakdown](http://www.thenervousbreakdown.com/gfrangello/2011/05/new-directions-in-publishing-public-relations-representative-lauren-cerand/), “Lauren Cerand is a singular powerhouse of vision and personality… there isn’t a hotter freelance publicist in the country.” She is known “as a freelancer of exquisite taste who only takes on projects that interest her,” says *[the Millions](http://www.themillions.com/2012/04/adventures-in-self-publishing-dallas-hudgens-wake-up-were-here.html)*; a “talented publicist,” says the *[Wall Street Journal](http://www.wsj.com/articles/how-preparation-for-the-next-life-became-a-big-hit-for-tyrant-1421351378?tesla=y)*; “a social media pioneer,” says Svenska Dagbladet (Swedish Daily Paper); and a “specialist in literary social networking,” says the *Telegraph* (UK). According to the *[Rumpus](http://therumpus.net/2012/05/lit-link-round-up-16/)*, Lauren is “in that rare category of people in publishing who are both arbiters of taste and a kind of ‘brand’ in and of themselves.”
 
 Lauren is a graduate of Cornell University. She lives in Brooklyn.
+
+*Photography by Roger Gana James Photography*
