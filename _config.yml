@@ -28,6 +28,9 @@ directory_assets_img: /static/images/
 # facebook_id:
 twitter_id: budparr
 
+gems:
+  - jekyll-seo-tag
+
 
 defaults:
   -
@@ -36,3 +39,8 @@ defaults:
       type: "pages" # previously `post` in Jekyll 2.2.
     values:
       layout: "page"
+
+compress_html:
+  ignore:
+    envs: [development]
+  profile: false
