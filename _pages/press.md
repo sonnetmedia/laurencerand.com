@@ -6,6 +6,10 @@ permalink: /press/
 
 2016
 
+[TK with James Scott, podcast interview (August 2, 2016)](http://tkpod.com/2016/08/02/episode-13-jesse-donaldson-lauren-cerand/)
+
+[ABA Bookselling This Week, "Small Press Profile: Relegation Books" (October 19, 2016)](http://bookweb.org/news/small-press-profile-relegation-books-34789)
+
 [Loveliest, "Interview with NY-Based Freelance Publicist Lauren Cerand" (January 5, 2016)](http://loveliestmag.com/issues/issue-2/feature/)
 
 ---
