@@ -11,4 +11,4 @@ Lauren has been called one of the â€œcultural gatekeepers in the literary worldâ
 
 Lauren is a graduate of Cornell University. She lives in Brooklyn.
 
-*Image credit: Roger James Photography.*
+*Image credit: Bekka Palmer.*
