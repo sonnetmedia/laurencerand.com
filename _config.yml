@@ -31,7 +31,7 @@ author: Lauren Cerand
 twitter:
   username: luxlotus
 #logo: /static/images/lauren-cerand-by-roger-gana-james-photography.jpg
-logo: /static/images/headshot-lauren-cerand_v3.jpg
+logo: /static/images/headshot-lauren-cerand.jpg
 gems:
   - jekyll-seo-tag
 port: 4001
