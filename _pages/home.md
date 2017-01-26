@@ -1,5 +1,6 @@
 ---
 permalink: /
+image: /static/images/headshot-lauren-cerand.jpg
 ---
 
 
