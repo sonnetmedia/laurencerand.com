@@ -1,5 +1,4 @@
 ---
-image: /static/images/lauren-cerand-2016-06.jpg
 permalink: /
 ---
 
