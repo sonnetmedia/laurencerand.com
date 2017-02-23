@@ -1,6 +1,6 @@
 ---
 permalink: /
-image: /static/images/headshot-lauren-cerand-full.jpg
+image: /static/images/headshot-lauren-cerand-700x583.jpg
 ---
 
 
