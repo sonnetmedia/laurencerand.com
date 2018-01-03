@@ -1,6 +1,6 @@
 ---
 permalink: /
-image: /uploads/laurencerandhi-res.jpg
+image: /uploads/laurencerandhi-res-1.jpg
 ---
 
 
