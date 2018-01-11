@@ -37,3 +37,5 @@ Min Jin Lee, finalist for the 2017 National Book Award for Fiction
 The Penguin Press (U.S. publicity for Jeet Thayil’s *Narcopolis*)
 
 Text Publishing (selected U.S. publicity)
+
+Third Man Books
