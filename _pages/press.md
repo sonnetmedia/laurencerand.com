@@ -3,6 +3,17 @@ title: Press
 permalink: /press/
 ---
 
+2018
+
+Seattle Review of Books, “Whatcha reading, Lauren Cerand?” (January 20, 2018) was added to the Projects page (scroll down to the bottom and you'll see it)–– it should be moved to the press page under a new heading for 2018, followed by:
+
+Poets & Writers, "The Art of Publicity: How Indie Publicists Work With Writers" (March/April 2018)
+
+Literary Hub, "If They Gave Oscars to Books, Our 2017 Nominees" (March 2, 2018)
+
+Bookforum, "Lauren Cerand joins 'A Public Space'" (March 26, 2018)
+
+---
 
 2016
 
