@@ -3,7 +3,6 @@ title: Selected Past Projects & Clients
 permalink: /projects/
 ---
 
-
 4Columns.org
 
 Anne Landsman, winner of the 2009 *Sunday Times* Fiction Prize and South Africa's 2009 M-Net Literary Award for English fiction
@@ -39,5 +38,3 @@ The Penguin Press (U.S. publicity for Jeet Thayil’s *Narcopolis*)
 Text Publishing (selected U.S. publicity)
 
 Third Man Books
-
-Seattle Review of Books, ["Whatcha reading, Lauren Cerand?"](http://www.seattlereviewofbooks.com/notes/2018/01/20/whatcha-reading-lauren-cerand/) (January 20, 2018)
