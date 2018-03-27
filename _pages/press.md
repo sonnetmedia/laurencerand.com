@@ -5,13 +5,13 @@ permalink: /press/
 
 2018
 
-Seattle Review of Books, “Whatcha reading, Lauren Cerand?” (January 20, 2018) was added to the Projects page (scroll down to the bottom and you'll see it)–– it should be moved to the press page under a new heading for 2018, followed by:
+Seattle Review of Books,[ “Whatcha reading, Lauren Cerand?”](http://www.seattlereviewofbooks.com/notes/2018/01/20/whatcha-reading-lauren-cerand/) (January 20, 2018) was added to the Projects page (scroll down to the bottom and you'll see it)–– it should be moved to the press page under a new heading for 2018, followed by:
 
-Poets & Writers, "The Art of Publicity: How Indie Publicists Work With Writers" (March/April 2018)
+Poets & Writers, ["The Art of Publicity: How Indie Publicists Work With Writers"](https://www.pw.org/content/the_art_of_publicity_how_indie_publicists_work_with_writers) (March/April 2018)
 
-Literary Hub, "If They Gave Oscars to Books, Our 2017 Nominees" (March 2, 2018)
+Literary Hub, ["If They Gave Oscars to Books, Our 2017 Nominees"](https://lithub.com/if-they-gave-oscars-to-books-our-2017-nominees/) (March 2, 2018)
 
-Bookforum, "Lauren Cerand joins 'A Public Space'" (March 26, 2018)
+Bookforum, ["Lauren Cerand joins 'A Public Space'"](http://blogs.bookforum.com/paper/2018/03/26/lauren-cerand-joins-a-public-space/) (March 26, 2018)
 
 ---
 
