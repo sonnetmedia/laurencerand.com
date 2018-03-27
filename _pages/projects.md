@@ -14,7 +14,7 @@ Barnes & Noble (for “Upstairs at the Square,” 2006-2013)
 
 Bloomsbury (U.S. advance publicity for Damian Barr’s *Maggie & Me*)
 
-Chris Abani
+Chris Abani, winner of a 2015 Mystery Writers of America Edgar Award for Best Paperback Original for *The Secret History of Las Vegas*
 
 CNET's Technically Literate series of original fiction (2016 launch)
 
