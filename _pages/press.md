@@ -5,7 +5,7 @@ permalink: /press/
 
 2018
 
-Seattle Review of Books,[ “Whatcha reading, Lauren Cerand?”](http://www.seattlereviewofbooks.com/notes/2018/01/20/whatcha-reading-lauren-cerand/) (January 20, 2018) was added to the Projects page (scroll down to the bottom and you'll see it)–– it should be moved to the press page under a new heading for 2018, followed by:
+Seattle Review of Books,[ “Whatcha reading, Lauren Cerand?”](http://www.seattlereviewofbooks.com/notes/2018/01/20/whatcha-reading-lauren-cerand/) (January 20, 2018)
 
 Poets & Writers, ["The Art of Publicity: How Indie Publicists Work With Writers"](https://www.pw.org/content/the_art_of_publicity_how_indie_publicists_work_with_writers) (March/April 2018)
 
