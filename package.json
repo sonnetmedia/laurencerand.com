@@ -1,9 +1,8 @@
 {
-  "name": "hugostarter",
+  "name": "LaurenCerand",
   "version": "2.0.0",
-  "description": "Starter files for a Hugo project",
-  "main": "index.js",
-  "repository": "https://github.com/theNewDynamic/hugo-starter.git",
+  "description": "Personal Website of Lauren Cerand",
+  "repository": "https://github.com/sonnetmedia/laurencerand.com.git",
   "author": "budparr <budparr@gmail.com>",
   "license": "MIT",
   "scripts": {

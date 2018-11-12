@@ -14,11 +14,9 @@ class TailwindExtractor {
 module.exports = env => {
 	console.log("NODE_ENV: ", process.env.NODE_ENV); // 'local'
 
-	var CONFIG = {
-		mode: "production",
+	var CONFIG = {		
 		entry: {
-			app: "./assets/index.js",
-			algolia: "./assets/algolia.js"
+			app: "./assets/index.js"			
 		},
 		output: {
 			path: path.resolve(__dirname, "assets/output"),
