@@ -1,6 +1,23 @@
 /* Use the site file to define common component classes or to prevent duplicate sets of classes in templates. */
+body.body-color {
+  @apply bg-yellow-darker;
+}
 
-body {
-  font-family: 'Vesper Libre';
-  font-weight: 500;
+footer {
+  @apply text-xs;
+}
+
+@screen lg {
+   .transform-90 {
+      transform: rotate(-90deg);          
+ }
+}
+ul[name=main] {
+  @apply text-center;
+}
+ul[name=main] li {
+  @apply inline-block px-2 lowercase;
+}
+ul[name=main] li a{
+  @apply no-underline;
 }

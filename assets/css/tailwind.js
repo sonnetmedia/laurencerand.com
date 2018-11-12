@@ -44,15 +44,6 @@ View the full documentation at https://tailwindcss.com.
 */
 
 let colors = {
-
-  'primary-color-lightest' : '#E7E7E7',
-  'primary-color-lighter' : '#A0A0A0',
-  'primary-color-light' : '#585858',
-  'primary-color' : '#111111',
-  'primary-color-dark' : '#0F0F0F',
-  'primary-color-darker' : '#0A0A0A',
-  'primary-color-darkest' : '#050505',
-
   'transparent': 'transparent',
 
   'black': '#22292f',
@@ -203,18 +194,17 @@ module.exports = {
 
   fonts: {
     'brand': [
-      'system-ui',
-      'BlinkMacSystemFont',
-      '-apple-system',
-      'Segoe UI',
-      'Roboto',
-      'Oxygen',
-      'Ubuntu',
-      'Cantarell',
-      'Fira Sans',
-      'Droid Sans',
-      'Helvetica Neue',
-      'sans-serif',
+      'Cormorant Garamond',
+      'Constantia',
+      'Lucida Bright',
+      'Lucidabright',
+      'Lucida Serif',
+      'Lucida',
+      'DejaVu Serif',
+      'Bitstream Vera Serif',
+      'Liberation Serif',
+      'Georgia',
+      'serif',
     ],
     'sans': [
       'system-ui',
@@ -953,6 +943,9 @@ module.exports = {
       // center: true,
       // padding: '1rem',
     }),
+    require('tailwindcss-flexbox-order')(
+      {variants: ['responsive'],}
+    ),
     require("./plugins/css-grid.js")({
       grids: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       gaps: {

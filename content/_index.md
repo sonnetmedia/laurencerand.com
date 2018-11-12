@@ -1,6 +1,6 @@
 ---
 permalink: /
-image: /uploads/laurencerandhi-res-1.jpg
+images: ["/uploads/lauren_cerand_portraits_3.jpg"]
 ---
 
 “There are publicists, and then there is Lauren Cerand,” said Flavorwire, counting her among “35 Writers Who Run the Literary Internet,” in 2014. In the March/April 2018 issue of *Poets & Writers*, she is described as "a highly sought-after independent publicity guru who exudes an easy bookish glamour."

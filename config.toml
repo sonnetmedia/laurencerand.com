@@ -1,4 +1,4 @@
-title = "Hugo Starter"
+title = "Lauren Cerand"
 DefaultContentLanguage = "en"
 MetaDataFormat = "yaml"
 buildFuture = true
@@ -8,12 +8,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 themesDir = "layout_modules"
 theme = ["hugo-layout_module-base"]
-preserveTaxonomyNames = true
-
-[blackfriday]
-extensionsmask = [
-"noIntraEmphasis"
-]
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [menu]
 
@@ -24,10 +19,24 @@ url = "/"
 weight = 1.0
 
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 60.0
+identifier = "press"
+name = "Press"
+url = "/press/"
+weight = 10.0
+
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 20.0
+
+[[menu.main]]
+identifier = "contact"
+name = "Letters"
+url = "/contact/"
+weight = 90.0
+
 
 [mediaTypes]
 
@@ -58,24 +67,9 @@ home = [
 ]
 
 [params]
-description = "Build Faster Better Websites with modern tools and techniques"
-logo = ""
+description = "The personal website of Lauren Cerand"
+logo = "/uploads/lauren_cerand_portraits_3.jpg"
+image = "/uploads/lauren_cerand_portraits_3.jpg"
 
-
-# [related]
-# includeNewer = true
-
-# [[related.indices]]
-# name = "section_name"
-# toLower = true
-# weight = 100.0
-
-[sitemap]
-changefreq = "monthly"
-filename = "sitemap.xml"
-priority = 0.5
 
 [social]
-
-[taxonomies]
-tag = "tags"

@@ -5739,6 +5739,11 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
+typeface-cormorant-garamond@^0.0.54:
+  version "0.0.54"
+  resolved "https://registry.yarnpkg.com/typeface-cormorant-garamond/-/typeface-cormorant-garamond-0.0.54.tgz#3ade5c92c4686098c6d65d1d75d53f03acd702de"
+  integrity sha512-N9F8i6b7CvhgyPTLm3szIueK6nk2samXO36y5N0Gr0VsNEaht5LXrtuwEag9vWuq/wPjR9Dj0Rb1ChGPu9Rpzw==
+
 uc.micro@^1.0.1, uc.micro@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/uc.micro/-/uc.micro-1.0.5.tgz#0c65f15f815aa08b560a61ce8b4db7ffc3f45376"
