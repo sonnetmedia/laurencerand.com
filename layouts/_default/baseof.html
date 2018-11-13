@@ -5,7 +5,7 @@
     {{ block "head" .}}
       {{- partial "_head/meta-and-links.html" . -}}
     {{ end }}
-    
+    {{- partial "_head/scripts.html" . -}}
   </head>
   <body class="{{.Kind}} md:flex min-h-screen flex-col m-0 body-color leading-normal text-base{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">        
     <main role="main" class="md:flex">    

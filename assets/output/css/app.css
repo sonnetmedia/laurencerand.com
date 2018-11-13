@@ -267,6 +267,10 @@ blockquote {
   background-size: cover;
 }
 
+.border-grey-light {
+  border-color: #dae1e7;
+}
+
 .border-grey-lighter {
   border-color: #f1f5f8;
 }
