@@ -235,6 +235,10 @@ blockquote {
   background-color: hsla(0, 0%, 100%, .9);
 }
 
+.bg-black {
+  background-color: #22292f;
+}
+
 .bg-grey-light {
   background-color: #dae1e7;
 }
@@ -666,6 +670,10 @@ blockquote {
 
 .uppercase {
   text-transform: uppercase;
+}
+
+.lowercase {
+  text-transform: lowercase;
 }
 
 .no-underline {
