@@ -13,25 +13,25 @@
     <main role="main" class="lg:flex">    
     
      
-      <header class="bg-black text-white relative min-h-full w-16">
+      <header class="bg-black text-white relative text-center min-h-full w-16">
         {{ block "header" . }}
-        <div class="transform-90 max-w-full absolute pin-t pin-l mt-32 whitespace-no-wrap text-2xl leading-none">
+        <h1 class="transform-90 m-0 max-w-full absolute pin-t pin-l whitespace-no-wrap text-2xl leading-none">
           {{.Site.Title}}
-        </div>
+        </h1>
         {{ end }}                    
       </header> 
      
-      <div class="flex">
+      <div class="flex w-full">
           <div class="w-full mx-autoTK md:w-1/2 text-grey-darker">                
             {{ block "image" . }}
               {{$image := index ($.Param "images") 0 }}              
-              <div class="sticky pin-t bg-grey h-screen max-h-full {{.Params.image_class | default "bg-cover bg-center"}} lazyload" data-bg="{{$image}}">
+              <div class="sticky pin-t w-full bg-grey h-screen max-h-full {{.Params.image_class | default "bg-cover bg-center"}} lazyload" data-bg="{{$image}}">
                 <!-- {{- partial "image.html" . -}} -->                  
               </div>              
             {{ end }}                                        
           </div>
   
-          <div class="font-brand w-1/2 bg-grey-lightest">          
+          <div class="font-brand md:w-1/2 bg-grey-lightest">          
             {{- partial "_global/menu.html" (dict "page" . "menu" "main") -}}          
             {{ with .Description }}
               <div class="text-3xl text-center px-8 lg:px-16 xl:px-32 pt-16">
