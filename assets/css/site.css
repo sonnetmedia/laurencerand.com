@@ -21,7 +21,7 @@ footer {
   @apply text-xs;
 }
 
-@screen lg {
+@screen md {
    .transform-90 {
       transform: rotate(-90deg);          
  }

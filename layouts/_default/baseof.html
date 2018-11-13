@@ -9,36 +9,36 @@
       {{ partial "_head/scripts.html" . }}
     {{ end }}
   </head>
-  <body class="{{.Kind}}  flex min-h-screen flex-col m-0 body-color leading-normal text-base{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">        
-    <main role="main" class="lg:flex">    
+  <body class="{{.Kind}} md:flex min-h-screen flex-col m-0 body-color leading-normal text-base{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">        
+    <main role="main" class="md:flex">    
     
      
-      <header class="bg-black text-white relative text-center min-h-full w-16">
+      <header class="md:bg-black sm:flex justify-top md:pt-32 flex-col md:text-white  text-center min-h-full w-full md:w-16">
         {{ block "header" . }}
-        <h1 class="transform-90 m-0 max-w-full absolute pin-t pin-l whitespace-no-wrap text-2xl leading-none">
+        <h1 class="transform-90 m-0 py-8 font-brand whitespace-no-wrap text-3xl md:text-2xl leading-none">
           {{.Site.Title}}
-        </h1>
+        </h1>        
         {{ end }}                    
       </header> 
      
-      <div class="flex w-full">
-          <div class="w-full mx-autoTK md:w-1/2 text-grey-darker">                
+      <div class="flex flex-wrap w-full">
+          <div class="w-full md:w-1/2 order-1 md:order-0 text-grey-darker">                
             {{ block "image" . }}
               {{$image := index ($.Param "images") 0 }}              
-              <div class="sticky pin-t w-full bg-grey h-screen max-h-full {{.Params.image_class | default "bg-cover bg-center"}} lazyload" data-bg="{{$image}}">
+              <div class="md:sticky pin-t w-full bg-grey h-screen max-h-full {{.Params.image_class | default "bg-cover bg-center"}} lazyload" data-bg="{{$image}}">
                 <!-- {{- partial "image.html" . -}} -->                  
               </div>              
             {{ end }}                                        
           </div>
   
-          <div class="font-brand md:w-1/2 bg-grey-lightest">          
+          <div class="font-brand w-full md:w-1/2 bg-grey-lightestTK">          
             {{- partial "_global/menu.html" (dict "page" . "menu" "main") -}}          
             {{ with .Description }}
-              <div class="text-3xl text-center px-8 lg:px-16 xl:px-32 pt-16">
+              <div class="text-3xl text-center px-8 md:px-16 xl:px-32 pt-16">
                 {{ . }}
               </div>
             {{ end }}
-            <div class="text-grey-darkest font-brand nested-no-underline p-16">            
+            <div class="text-grey-darkest font-brand nested-no-underline p-4 lg:p-16">            
               <div class="text-xl ">
                 {{.Content}}            
               </div>
