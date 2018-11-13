@@ -26,7 +26,7 @@ p a:hover {
 
 
 hr {
-  @apply .py-4;
+  @apply .py-4 border-solid border-t border-0;
 }
 
 dt::after {
@@ -35,4 +35,11 @@ dt::after {
 
 .btn {
     @apply .font-bold .py-2 .px-4 .rounded .no-underline .border .inline-block .mb-2;
+  }
+
+  .nested-no-underline p a {
+    @apply no-underline;
+  }
+  .nested-no-underline p a:hover {
+    @apply underline;
   }

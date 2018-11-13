@@ -9,26 +9,55 @@
       {{ partial "_head/scripts.html" . }}
     {{ end }}
   </head>
-  <body class="{{.Kind}} flex min-h-screen flex-col m-0 body-color leading-normal text-base{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">        
-      <main role="main" class="flex-1 max-w-lg mx-auto lg:flex mt-16">    
-          {{ block "header" . }}
-            {{ partial "_global/header.html" . }}
-          {{ end }}            
-          <div class="bg-white w-full md:w-4/5 text-grey-darker">
-            {{ block "nav" . }}
-              {{- partial "_global/menu.html" (dict "page" . "menu" "main") -}}
-              {{ end }}
+  <body class="{{.Kind}}  flex min-h-screen flex-col m-0 body-color leading-normal text-base{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">        
+    <main role="main" class="lg:flex">    
+    
+     
+      <header class="bg-black text-white relative min-h-full w-16">
+        {{ block "header" . }}
+        <div class="transform-90 max-w-full absolute pin-t pin-l mt-32 whitespace-no-wrap text-2xl leading-none">
+          {{.Site.Title}}
+        </div>
+        {{ end }}                    
+      </header> 
+     
+      <div class="flex">
+          <div class="w-full mx-autoTK md:w-1/2 text-grey-darker">                
             {{ block "image" . }}
-            {{ end }}        
-            <div class="text-xl font-brand p-8">
-              {{ block "main" . }}
-                {{.Content}}
+              {{$image := index ($.Param "images") 0 }}              
+              <div class="sticky pin-t bg-grey h-screen max-h-full {{.Params.image_class | default "bg-cover bg-center"}} lazyload" data-bg="{{$image}}">
+                <!-- {{- partial "image.html" . -}} -->                  
+              </div>              
+            {{ end }}                                        
+          </div>
+  
+          <div class="font-brand w-1/2 bg-grey-lightest">          
+            {{- partial "_global/menu.html" (dict "page" . "menu" "main") -}}          
+            {{ with .Description }}
+              <div class="text-3xl text-center px-8 lg:px-16 xl:px-32 pt-16">
+                {{ . }}
+              </div>
+            {{ end }}
+            <div class="text-grey-darkest font-brand nested-no-underline p-16">            
+              <div class="text-xl ">
+                {{.Content}}            
+              </div>
+              {{ with .Params.footer_copy }}
+                <div class="text-xm">
+                  {{ . | markdownify }}
+                </div>
               {{ end }}
             </div>
-          </div>
+      </div>
+        
+          
+        </div>
+    
       </main>
-      {{ block "footer" . }}
-        {{- partial "_global/footer.html" . -}}
-      {{ end }}    
+    
+
+
+    <div class="bordered bordered-t"></div>
+    <div class="bordered bordered-b"></div>
   </body>
 </html>

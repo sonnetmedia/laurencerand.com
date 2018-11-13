@@ -1,1 +1,3 @@
-<img src="{{index .Params.images 0}}" alt="" class="max-w-full">
+{{$image := index ($.Param "images") 0 }}
+
+<img src="{{$image}}" alt="" class="max-w-full">

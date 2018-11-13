@@ -6,38 +6,9 @@ baseURL = "https://www.thenewdynamic.org"
 enableRobotsTXT = true
 googleAnalytics = ""
 languageCode = "en-us"
-themesDir = "layout_modules"
-theme = ["hugo-layout_module-base"]
 disableKinds = ["taxonomy", "taxonomyTerm"]
-
-[menu]
-
-[[menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 1.0
-
-[[menu.main]]
-identifier = "press"
-name = "Press"
-url = "/press/"
-weight = 10.0
-
-
-[[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "/projects/"
-weight = 20.0
-
-[[menu.main]]
-identifier = "contact"
-name = "Letters"
-url = "/contact/"
-weight = 90.0
-
-
+themesDir = "layout_modules"
+theme = "hugo-layout_module-base"
 [mediaTypes]
 
 [mediaTypes."text/netlify"]
@@ -69,7 +40,7 @@ home = [
 [params]
 description = "The personal website of Lauren Cerand"
 logo = "/uploads/lauren_cerand_portraits_3.jpg"
-image = "/uploads/lauren_cerand_portraits_3.jpg"
+images = ["/uploads/lauren_cerand_portraits_3.jpg"]
 
 
 [social]

@@ -1,0 +1,15 @@
+{{ $currentPage := .page }}
+{{ $menu := index .page.Site.Menus (.menu) }}
+{{ with $menu }}
+  <nav aria-label="{{ $.menu }}">
+    <ul name="{{ $.menu }}" class="list-reset">
+      {{ range . }}
+        <li class="{{ .Identifier }}">
+          <a class="color-inherit {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{ end }}" href="{{ .URL }}" title="{{ .Name }} page">
+            {{ .Name }}
+          </a>          
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+{{ end }}

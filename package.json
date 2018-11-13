@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "deploy": "HUGO_ENV=production maid deploy",
-    "start": "HUGO_ENV=development maid build server --gc --disableFastRender --navigateToChanged"
+    "start": "HUGO_ENV=development maid build server --gc --disableFastRender --navigateToChanged --minify"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.53",
@@ -29,7 +29,7 @@
     "postcss-import": "^12.0.0",
     "postcss-loader": "^3.0.0",
     "purgecss-webpack-plugin": "^1.3.0",
-    "tailwindcss": "^0.6.6",
+    "tailwindcss": "^0.7.2",
     "tailwindcss-aspect-ratio": "^1.0.1",
     "tailwindcss-flexbox-order": "^1.0.0",
     "tailwindcss-tables": "^0.2.0",
