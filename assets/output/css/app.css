@@ -564,6 +564,11 @@ blockquote {
   position: fixed;
 }
 
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
 .pin-t {
   top: 0;
 }
