@@ -33,6 +33,7 @@
     "tailwindcss-aspect-ratio": "^1.0.1",
     "tailwindcss-flexbox-order": "^1.0.0",
     "tailwindcss-tables": "^0.2.0",
+    "turbolinks": "^5.2.0",
     "typeface-cormorant-garamond": "^0.0.54",
     "webpack": "^4.16.0",
     "webpack-command": "^0.4.1"
