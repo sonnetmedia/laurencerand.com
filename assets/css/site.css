@@ -1,0 +1,45 @@
+/* Use the site file to define common component classes or to prevent duplicate sets of classes in templates. */
+/* body.body-color {
+  @apply bg-yellow-darker;
+} */
+
+body {
+  @apply border-solid border-yellow-darkest border-r-8 border-l-8;  
+ }
+ .bordered {
+   @apply fixed w-full border-solid border-yellow-darkest border-b-8;
+ }
+ .bordered-b {
+   @apply pin-t;
+ }
+ .bordered-t {
+   @apply pin-b;
+ }
+ 
+
+footer {
+  @apply text-xs;
+}
+
+@screen md {
+   .transform-90 {
+      transform: rotate(-90deg);          
+ }
+}
+ul[name=main] {
+  @apply text-center pt-8;
+}
+ul[name=main] li {
+  @apply inline-block text-xl px-2 lowercase;
+}
+ul[name=main] li a{
+  @apply no-underline text-grey-darkest;
+}
+
+ul[name=main] li a.active{
+  @apply border-b border-t-0 border-l-0 border-r-0 border-solid border-grey-dark;
+}
+
+ blockquote {
+   @apply text-3xl text-center px-8 py-4 text-grey-darkest;
+ }

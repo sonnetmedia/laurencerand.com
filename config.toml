@@ -1,0 +1,46 @@
+title = "Lauren Cerand"
+DefaultContentLanguage = "en"
+MetaDataFormat = "yaml"
+buildFuture = true
+baseURL = "https://hugo--laurencerand.netlify.com/"
+enableRobotsTXT = true
+googleAnalytics = ""
+languageCode = "en-us"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+themesDir = "layout_modules"
+theme = "hugo-layout_module-base"
+[mediaTypes]
+
+[mediaTypes."text/netlify"]
+delimiter = ""
+suffixes = [""]
+
+
+[outputFormats]
+
+[outputFormats.HEADERS]
+baseName = "_headers"
+isPlainText = true
+mediatype = "text/netlify"
+notAlternative = true
+
+[outputFormats.REDIR]
+baseName = "_redirects"
+isPlainText = true
+mediatype = "text/netlify"
+notAlternative = true
+
+[outputs]
+home = [
+"HTML",
+"HEADERS",
+"REDIR"
+]
+
+[params]
+description = "The personal website of Lauren Cerand"
+logo = "/uploads/lauren_cerand_portraits_3.jpg"
+images = ["/uploads/lauren_cerand_portraits_3.jpg"]
+
+
+[social]

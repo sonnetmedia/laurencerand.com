@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}" class="no-js">
+  <head>
+    <title>{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }} </title>
+    {{ block "head" .}}
+      {{- partial "_head/meta-and-links.html" . -}}
+    {{ end }}
+    {{- partial "_head/scripts.html" . -}}
+  </head>
+  <body class="{{.Kind}} md:flex min-h-screen flex-col m-0 body-color leading-normal text-base{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">        
+    <main role="main" class="md:flex">    
+    
+     
+      <header class="md:bg-black sm:flex justify-top md:pt-32 flex-col text-center min-h-full w-full md:w-16">
+        {{ block "header" . }}
+        <h1 class="md:sticky pin-t transform-90 m-0 py-8 font-brand whitespace-no-wrap text-3xl md:text-2xl leading-none">
+          <a href="/" class="no-underline md:text-white text-yellow-darkest">{{.Site.Title}}</a>
+        </h1>        
+        {{ end }}                    
+      </header> 
+     
+      <div class="flex flex-wrap w-full">
+          <div class="w-full md:w-1/2 order-1 md:order-0 text-grey-darker">                
+            {{ block "image" . }}
+              {{$image := index ($.Param "images") 0 }}              
+              <div class="md:sticky pin-t w-full h-screen max-h-full {{.Params.image_class | default "bg-cover bg-center"}}" style="background-image:url('{{$image}}');">
+                <!-- {{- partial "image.html" . -}} -->                  
+              </div>              
+            {{ end }}                                        
+          </div>
+  
+          <div class="font-brand w-full md:w-1/2 bg-grey-lightestTK">          
+            {{- partial "_global/menu.html" (dict "page" . "menu" "main") -}}          
+            {{ with .Description }}
+              <div class="text-3xl text-center px-8 md:px-16 xl:px-32 pt-16">
+                {{ . }}
+              </div>
+            {{ end }}
+            <div class="text-grey-darkest font-brand nested-no-underline p-4 lg:p-16">            
+              <div class="text-xl ">
+                {{.Content}}            
+              </div>
+              {{ with .Params.footer_copy }}
+                <div class="text-xm">
+                  {{ . | markdownify }}
+                </div>
+              {{ end }}
+            </div>
+      </div>
+        
+          
+        </div>
+    
+      </main>
+    
+
+
+    <div class="bordered bordered-t"></div>
+    <div class="bordered bordered-b"></div>
+  </body>
+</html>
