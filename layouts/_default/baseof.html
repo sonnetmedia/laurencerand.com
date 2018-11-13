@@ -5,9 +5,7 @@
     {{ block "head" .}}
       {{- partial "_head/meta-and-links.html" . -}}
     {{ end }}
-    {{block "scripts" .}}
-      {{ partial "_head/scripts.html" . }}
-    {{ end }}
+    
   </head>
   <body class="{{.Kind}} md:flex min-h-screen flex-col m-0 body-color leading-normal text-base{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">        
     <main role="main" class="md:flex">    
@@ -25,7 +23,7 @@
           <div class="w-full md:w-1/2 order-1 md:order-0 text-grey-darker">                
             {{ block "image" . }}
               {{$image := index ($.Param "images") 0 }}              
-              <div class="md:sticky pin-t w-full h-screen max-h-full {{.Params.image_class | default "bg-cover bg-center"}} " style="background-image:url('{{$image}}');">
+              <div class="md:sticky pin-t w-full h-screen max-h-full {{.Params.image_class | default "bg-cover bg-center"}}" style="background-image:url('{{$image}}');">
                 <!-- {{- partial "image.html" . -}} -->                  
               </div>              
             {{ end }}                                        
