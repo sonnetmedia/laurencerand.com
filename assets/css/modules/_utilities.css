@@ -26,7 +26,7 @@ p a:hover {
 
 
 hr {
-  @apply .py-16 border-solid border-t border-0 border-transparent;
+  @apply .py-8 border-solid border-t border-0 border-transparent;
 }
 
 dt::after {
