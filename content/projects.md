@@ -1,6 +1,7 @@
 ---
 title: Selected Past Projects & Clients
 linktitle: Projects
+draft: true
 menu:
   main:
     weight: 20

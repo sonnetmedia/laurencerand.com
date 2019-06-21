@@ -1,5 +1,6 @@
 ---
 title: Press
+draft: true
 menu:
   main:
     weight: 10

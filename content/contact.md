@@ -6,6 +6,6 @@ menu:
     weight: 90
 
 ---
-## Messages checked daily
+## Send a Letter
 
 {{< form-contact >}}
