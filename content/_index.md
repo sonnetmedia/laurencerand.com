@@ -6,7 +6,7 @@ menu:
   main:
     weight: 1
 description: "Lauren Cerand is a jeweler, writer, and consultant with twenty years of experience running her own thriving global communications consultancy, based in New York and driven by an intensive personal focus on each client’s needs and desires, a vast network of relationships, and unparalleled expertise and creative ingenuity."    
-footer_copy: "*Photo: Sylvie Rosokoff. Web design: Bud Parr.*"
+footer_copy: "*Photo: Yiannis Rossiadis. Web design: Bud Parr.*"
 ---
 
 In 2019, she took a sabbatical year to immerse herself in the study of jewelry design and creation full-time in Florence, Italy, and learn more about the Italian language and way of life. While there, she also published an essay in Dining in Place, the online food and culture magazine based in Melbourne, and had another essay shortlisted for the Mollie Salisbury Cup memoir writing competition, administered by the Garden Museum in London. 
