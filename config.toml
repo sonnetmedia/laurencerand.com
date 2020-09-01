@@ -39,8 +39,8 @@ home = [
 
 [params]
 description = "The personal website of Lauren Cerand"
-logo = "/uploads/2020-09-01-lauren.jpg"
-images = ["/uploads/2020-09-01-lauren.jpg"]
+logo = "/uploads/2020-09-01-lauren-2.jpg"
+images = ["/uploads/2020-09-01-lauren-2.jpg"]
 
 
 [social]
