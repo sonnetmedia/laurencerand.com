@@ -2,7 +2,7 @@ title = "Lauren Cerand"
 DefaultContentLanguage = "en"
 MetaDataFormat = "yaml"
 buildFuture = true
-baseURL = "https://hugo--laurencerand.netlify.com/"
+baseURL = "https://www.laurencerand.com"
 enableRobotsTXT = true
 googleAnalytics = ""
 languageCode = "en-us"
@@ -39,8 +39,8 @@ home = [
 
 [params]
 description = "The personal website of Lauren Cerand"
-logo = "/uploads/lauren_cerand_portraits_3.jpg"
-images = ["/uploads/lauren_cerand_portraits_3.jpg"]
+logo = "/uploads/2020-09-01-lauren.jpg"
+images = ["/uploads/2020-09-01-lauren.jpg"]
 
 
 [social]
