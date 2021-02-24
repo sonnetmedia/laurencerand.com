@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/_index.md
   label: Home
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
@@ -16,13 +15,6 @@ sections:
   templates:
   - default
   - home
-- type: directory
-  path: content/about
-  label: About
-  create: all
-  match: "**/*"
-  templates:
-  - default
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
