@@ -5,12 +5,20 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: document
+  path: content/_index.md
+  label: Home
+- type: document
+  path: content/press.md
+  label: Press
+  match: "**/*"
+- type: document
+  path: content/projects.md
+  label: Projects
+  match: "**/*"
+- type: document
   path: content/thank-you.md
   label: Thank you
   match: "**/*"
-- type: document
-  path: content/_index.md
-  label: Home
 - type: directory
   path: content
   label: Pages
