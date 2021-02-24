@@ -10,19 +10,15 @@ sections:
 - type: document
   path: content/contact.md
   label: Contact
-  match: "**/*"
 - type: document
   path: content/thank-you.md
   label: Thank you
-  match: "**/*"
 - type: document
   path: content/press.md
   label: Press
-  match: "**/*"
 - type: document
   path: content/projects.md
   label: Projects
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''

@@ -5,7 +5,7 @@ description: Lauren Cerand is a jeweler, writer, and often arts and literary pub
   based in New York and driven by an intensive personal focus on each client’s needs
   and desires, a vast network of relationships, and unparalleled expertise and creative
   ingenuity.
-footer_copy: "*Photo: Yiannis Rossiadis. Web design: Bud Parr.*"
+footer_copy: "*Photo: Girls and Their Cats. Web design: Bud Parr.*"
 menu:
   main:
     weight: 1
@@ -17,4 +17,4 @@ You can listen to very recent podcast interviews with her at Tranquility du Jour
 
 Lauren serves on the advisory committee for Film Forum and the advisory board for Turtle Point Press in New York, and is a member of the City University Club in London. She has a bachelor’s degree in Industrial & Labor Relations from Cornell University, a certificate in Jewelry Design & Marketing from Pratt Institute, and has also completed the first year of the two-year Bachelor of Fine Arts degree program at Alchimia Contemporary Jewellery School in Firenze.
 
-Lauren is living full-time in New York right now, with an eye towards enjoying spring in the city at the height of her creative powers. Current and recent clients for strategic public relations campaigns and representation include the authors [Darien Hsu Gee](https://www.dariengee.com/), [Charles Vidich](https://www.germsatbaybook.com/), [Jasmin Kaur](https://www.jasminkaur.com/), [Arisa White](https://arisawhite.com/), and [Melissa Scholes-Young](http://melissascholesyoung.com/), and the international independent publishers [House of Anansi Press](https://houseofanansi.com/) and [Sandorf Passage.](https://sandorfpassage.org/) 
+Lauren is living full-time in New York right now, with an eye towards enjoying spring in the city at the height of her creative powers. Current and recent clients for strategic public relations campaigns and representation include the authors [Darien Hsu Gee](https://www.dariengee.com/), [Charles Vidich](https://www.germsatbaybook.com/), [Jasmin Kaur](https://www.jasminkaur.com/), [Arisa White](https://arisawhite.com/), and [Melissa Scholes-Young](http://melissascholesyoung.com/), and the international independent publishers [House of Anansi Press](https://houseofanansi.com/) and [Sandorf Passage.](https://sandorfpassage.org/)
