@@ -8,6 +8,14 @@ sections:
   path: content/_index.md
   label: Home
 - type: document
+  path: content/contact.md
+  label: Contact
+  match: "**/*"
+- type: document
+  path: content/thank-you.md
+  label: Thank you
+  match: "**/*"
+- type: document
   path: content/press.md
   label: Press
   match: "**/*"
@@ -15,18 +23,6 @@ sections:
   path: content/projects.md
   label: Projects
   match: "**/*"
-- type: document
-  path: content/thank-you.md
-  label: Thank you
-  match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-  templates:
-  - default
-  - home
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
