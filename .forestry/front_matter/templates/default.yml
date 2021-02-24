@@ -14,3 +14,9 @@ fields:
   name: weight
   label: weight
   template: partial-weight
+  hidden: true
+- name: footer_copy
+  type: text
+  config:
+    required: false
+  label: Footer Copy

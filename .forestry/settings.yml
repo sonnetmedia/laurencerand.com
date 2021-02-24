@@ -4,21 +4,21 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-  templates:
-  - default
-  - home
-- type: directory
-  path: content/about
-  label: About
-  create: all
-  match: "**/*"
-  templates:
-  - default
+- type: document
+  path: content/_index.md
+  label: Home
+- type: document
+  path: content/contact.md
+  label: Contact
+- type: document
+  path: content/thank-you.md
+  label: Thank you
+- type: document
+  path: content/press.md
+  label: Press
+- type: document
+  path: content/projects.md
+  label: Projects
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
